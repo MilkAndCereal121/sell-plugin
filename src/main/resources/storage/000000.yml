@@ -1,0 +1,12 @@
+info:
+  crops:
+    current-level: 2
+    earned: 25400
+  ores:
+    current-level: 2
+    earned: 25400
+
+history:
+  STONE:
+    total-price: 0
+    total-amount: 0
